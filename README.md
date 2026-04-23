@@ -1,7 +1,7 @@
 ### Hi there 👋
 I’m Kalil, a backend developer passionate about building APIs and learning modern backend technologies
 
-🔭 I’m currently working on [Task API](https://github.com/kalil87/task-api) and other personal projects  
+🔭 I’m currently working on Task API and other personal projects  
 🌱 I’m learning advanced backend architectures, cloud deployment, and Spring Boot  
 👯 I’m looking to collaborate on open-source backend projects  
 💬 Ask me about Java, Node.js, PostgreSQL, Docker, Git, and CI/CD  
